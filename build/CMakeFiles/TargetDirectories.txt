@@ -1,0 +1,3 @@
+C:/github_local/Mathemagic/build/CMakeFiles/Mathemagic.dir
+C:/github_local/Mathemagic/build/CMakeFiles/edit_cache.dir
+C:/github_local/Mathemagic/build/CMakeFiles/rebuild_cache.dir

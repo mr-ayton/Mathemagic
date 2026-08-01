@@ -1,0 +1,14 @@
+# ninja log v6
+6	479	8073229291320561	CMakeFiles/Mathemagic.dir/src/main.cpp.obj	62b36473e4cc5814
+33	511	8073200544486980	CMakeFiles/Mathemagic.dir/src/particle.cpp.obj	df39a9f945e996f7
+516	653	8073217376334062	Mathemagic.exe	e2d9bb0b30153c7b
+43	526	8073213820998797	CMakeFiles/Mathemagic.dir/src/slider.cpp.obj	f5fa2a5bd32148a8
+15	492	8073229291405918	CMakeFiles/Mathemagic.dir/src/renderer.cpp.obj	42cde72b6d73673a
+28	252	8073230578910623	build.ninja	54e719ee3b3317a5
+29	525	8073230579612077	CMakeFiles/Mathemagic.dir/src/particle.cpp.obj	df39a9f945e996f7
+23	526	8073230579552139	CMakeFiles/Mathemagic.dir/src/main.cpp.obj	62b36473e4cc5814
+34	534	8073230579663311	CMakeFiles/Mathemagic.dir/src/slider.cpp.obj	f5fa2a5bd32148a8
+41	553	8073230579725206	CMakeFiles/Mathemagic.dir/src/renderer.cpp.obj	42cde72b6d73673a
+554	697	8073230584854331	Mathemagic.exe	e2d9bb0b30153c7b
+23	535	8073230920365586	CMakeFiles/Mathemagic.dir/src/renderer.cpp.obj	42cde72b6d73673a
+536	664	8073230925485660	Mathemagic.exe	e2d9bb0b30153c7b
