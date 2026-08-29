@@ -15,6 +15,6 @@ class Renderer{
         sf::RenderWindow window;
 
         Particle particle;
-        Slider sliderX;
-        Slider sliderY;
+        SliderX sliderX;
+        SliderY sliderY;
 };

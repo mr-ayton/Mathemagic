@@ -2,9 +2,9 @@
 
 Particle::Particle()
 {
-    shape.setRadius(5.f);
-    shape.setFillColor(sf::Color::Cyan);
-    shape.setOrigin(5.f, 5.f);
+    shape.setRadius(1.f);
+    shape.setFillColor(sf::Color::Magenta);
+    shape.setOrigin(1.f, 1.f);
 }
 
 void Particle::setPosition(float x, float y)

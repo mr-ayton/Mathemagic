@@ -3,15 +3,15 @@
 
 Renderer::Renderer()
     :
-    sliderX(50, 50, 300, 0, 800),
-    sliderY(50, 100, 300, 0, 600)
+    sliderX(50, 50, 300, 0, 1280), // <-- Если вдруг оставлю в будущем слайдер, нужно автоматически привязать размер окна
+    sliderY(50, 100, 300, 0, 360)
     {
         window.create(
-            sf::VideoMode({800, 600}),
+            sf::VideoMode({1280, 720}),
             "Mathemagic"
         );
 
-        particle.setPosition(400, 300);
+        particle.setPosition(640, 360);
     }
 
     void Renderer::run()

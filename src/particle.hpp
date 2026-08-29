@@ -10,4 +10,5 @@ class Particle
 
     private:
         sf::CircleShape shape;
+        
 };
